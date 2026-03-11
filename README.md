@@ -84,8 +84,9 @@ The player must carefully dodge the pistons and reach the landing pad safely.
 For testing and experimentation, cheat codes are included.
 
 Key	Cheat
-L	Skip to next level
-C	Toggle indestructible mode (rocket will not crash when touching obstacles)
+
+L 	Skip to next level
+C 	Toggle indestructible mode (rocket will not crash when touching obstacles)
 🛠️ Built With
 
 Unity
