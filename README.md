@@ -42,8 +42,6 @@ The game currently includes **3 unique levels**, each with a different type of c
 <img width="1051" height="349" alt="Screenshot 2026-03-12 010506" src="https://github.com/user-attachments/assets/ab9ae83b-e7cc-4f78-9fa4-bfcd551c5d00" />
 
 
-*Add your Level 1 screenshot here*
-
 Level 1 introduces the basic gameplay mechanics.
 
 Features:
@@ -59,7 +57,6 @@ The player must move carefully to avoid obstacles and reach the landing pad.
 
 <img width="1065" height="292" alt="Screenshot 2026-03-12 000311" src="https://github.com/user-attachments/assets/03b38640-d784-43b1-8eda-21fdc4088ba9" />
 
-*Add your Level 2 screenshot here*
 
 Level 2 increases the difficulty.
 
@@ -76,7 +73,6 @@ Players must carefully guide the rocket through the tunnel without touching the 
 
 <img width="1027" height="301" alt="Screenshot 2026-03-12 000336" src="https://github.com/user-attachments/assets/539853b1-f04d-4649-a6a5-ceef10f99bd5" />
 
-*Add your Level 3 screenshot here*
 
 Level 3 introduces **moving obstacles**.
 
