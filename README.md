@@ -34,7 +34,8 @@ The game currently has three unique levels, each with a different challenge.
 
 🟢 Level 1 – Basic Navigation
 
-(Add your screenshot here)
+<img width="1051" height="349" alt="Screenshot 2026-03-12 010506" src="https://github.com/user-attachments/assets/ab9ae83b-e7cc-4f78-9fa4-bfcd551c5d00" />
+
 
 Level 1 introduces the basic mechanics of the game.
 The player must move the rocket up and down to avoid simple obstacles and reach the landing pad.
@@ -49,7 +50,8 @@ Basic obstacle avoidance
 
 🟡 Level 2 – Narrow Tunnel Challenge
 
-(Add your screenshot here)
+<img width="1065" height="292" alt="Screenshot 2026-03-12 000311" src="https://github.com/user-attachments/assets/03b38640-d784-43b1-8eda-21fdc4088ba9" />
+
 
 In this level, the rocket must travel through a long tunnel that gradually becomes narrower as the player moves forward.
 
@@ -63,7 +65,8 @@ Avoid touching the tunnel walls
 
 🔴 Level 3 – Moving Piston Obstacles
 
-(Add your screenshot here)
+<img width="1027" height="301" alt="Screenshot 2026-03-12 000336" src="https://github.com/user-attachments/assets/539853b1-f04d-4649-a6a5-ceef10f99bd5" />
+
 
 This level introduces moving piston obstacles.
 
